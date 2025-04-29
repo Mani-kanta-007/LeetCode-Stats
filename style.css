@@ -48,7 +48,7 @@ body{
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    color: #dc2f2f ;
+    color: #ff0000 ;
     background : conic-gradient(#142d4c var(--progress-deg , 0%),#ececec 0%);
 }
 .StatCirlces {
