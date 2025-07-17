@@ -42,6 +42,7 @@ document.addEventListener("DOMContentLoaded",function(){
 
         }
         catch(error){
+            alert('API-DOWN-DOWN!!') ;
             console.log(error);
         }
         finally {
